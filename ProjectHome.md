@@ -1,0 +1,1 @@
+The UNC SPMLv2 toolkit is a collection of Java classes designed to translate between SPMLv2 protocol messages and a simple, EntityManager-like set of interfaces.
